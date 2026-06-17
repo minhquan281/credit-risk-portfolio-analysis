@@ -1,7 +1,7 @@
 # 📊 Home Credit - Credit Risk Portfolio Analysis Dashboard
 
 ## 🌐 Live Dashboard
-👉 **[Click here to view the Interactive Dashboard on Tableau Public](DÁN_LINK_TABLEAU_PUBLIC_CỦA_BẠN_VÀO_ĐÂY)**
+👉 **[Click here to view the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/HomeCredit-CreditRiskPortfolioAnalysis_/Credit_Risk_Overview_Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
@@ -11,8 +11,7 @@ This project focuses on analyzing a consumer finance loan portfolio to balance t
 By building an interactive analytical dashboard in Tableau, the project pinpoints high-risk customer segments ("red zones") based on two critical financial risk drivers: **Debt-to-Income (DTI) ratio** and **Years of Employment (Job Tenure)**.
 
 ## 🖼️ Dashboard Preview
-*(Tip: Bạn nên chụp 1 tấm ảnh màn hình Dashboard hoàn chỉnh của bạn, đặt tên là `dashboard_preview.png`, upload lên kho này rồi thay thế link ảnh dưới đây nhé)*
-![Dashboard Preview](DÁN_LINK_ẢNH_MÀN_HÌNH_VÀO_ĐÂY_HOẶC_XÓA_DÒNG_NÀY)
+![Dashboard Preview](https://drive.google.com/file/d/1lbF6G4vBgBWaQQnY0N3PeIAvqrL43NK9/view?usp=sharing)
 
 ---
 
@@ -37,4 +36,4 @@ By building an interactive analytical dashboard in Tableau, the project pinpoint
 - **Flexibility for Stable Borrowers:** Create policy exceptions to approve high-DTI applicants (>45%) ONLY IF they can prove a stable employment history of 10+ years at a reputable organization.
 
 ---
-*Developed by [Tên Của Bạn] - Connect with me on [LinkedIn](DÁN_LINK_LINKEDIN_CỦA_BẠN_VÀO_ĐÂY)*
+*Developed by [Vu Quan] *
