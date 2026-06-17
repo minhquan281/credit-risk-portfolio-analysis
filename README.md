@@ -35,5 +35,13 @@ By building an interactive analytical dashboard in Tableau, the project pinpoint
 - **Tightening Credit for "Double Whammy" Profiles:** Implement strict loan rejections or heavily reduce credit limits for applicants who simultaneously have a DTI >60% AND less than 3 years of job tenure.
 - **Flexibility for Stable Borrowers:** Create policy exceptions to approve high-DTI applicants (>45%) ONLY IF they can prove a stable employment history of 10+ years at a reputable organization.
 
+### 🗄️ SQL Data Preparation
+Before visualizing in Tableau, the raw data was queried and aggregated using SQL. You can view the full script here: 👉 **[credit_risk_query.sql](./credit_risk_query.sql)**
+
+**Key SQL techniques applied:**
+- `SUM(CASE WHEN...)` and `COUNT()` to dynamically calculate the **NPL Ratio** (Non-Performing Loans).
+- `GROUP BY` to segment data by **DTI** ranges and **Years of Employment**.
+- Data filtering to handle missing/null values in the financial dataset.
+
 ---
 *Developed by [Vu Quan] *
